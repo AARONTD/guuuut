@@ -13,6 +13,7 @@
 		BCC47C091CA3C37D009D2BFC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCC47C071CA3C37D009D2BFC /* Main.storyboard */; };
 		BCC47C0B1CA3C37D009D2BFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCC47C0A1CA3C37D009D2BFC /* Assets.xcassets */; };
 		BCC47C0E1CA3C37D009D2BFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCC47C0C1CA3C37D009D2BFC /* LaunchScreen.storyboard */; };
+		BCC47C1A1CA3C7EE009D2BFC /* bgtrhythjymjjymijmiumuimkiuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC47C191CA3C7EE009D2BFC /* bgtrhythjymjjymijmiumuimkiuViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		BCC47C0A1CA3C37D009D2BFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BCC47C0D1CA3C37D009D2BFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BCC47C0F1CA3C37D009D2BFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCC47C181CA3C7EE009D2BFC /* bgtrhythjymjjymijmiumuimkiuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bgtrhythjymjjymijmiumuimkiuViewController.h; sourceTree = "<group>"; };
+		BCC47C191CA3C7EE009D2BFC /* bgtrhythjymjjymijmiumuimkiuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = bgtrhythjymjjymijmiumuimkiuViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 		BCC47BFD1CA3C37D009D2BFC /* 222222222222222 */ = {
 			isa = PBXGroup;
 			children = (
+				BCC47C181CA3C7EE009D2BFC /* bgtrhythjymjjymijmiumuimkiuViewController.h */,
+				BCC47C191CA3C7EE009D2BFC /* bgtrhythjymjjymijmiumuimkiuViewController.m */,
 				BCC47C011CA3C37D009D2BFC /* AppDelegate.h */,
 				BCC47C021CA3C37D009D2BFC /* AppDelegate.m */,
 				BCC47C041CA3C37D009D2BFC /* ViewController.h */,
@@ -151,6 +156,7 @@
 			files = (
 				BCC47C061CA3C37D009D2BFC /* ViewController.m in Sources */,
 				BCC47C031CA3C37D009D2BFC /* AppDelegate.m in Sources */,
+				BCC47C1A1CA3C7EE009D2BFC /* bgtrhythjymjjymijmiumuimkiuViewController.m in Sources */,
 				BCC47C001CA3C37D009D2BFC /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
